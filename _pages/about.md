@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of ICSE](https://icse.uestc.edu.cn/), [UESTC](https://uestc.edu.cn/). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
+I'm a doctoral candidate at the [School of Power and Energy](https://dongneng.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). My research focuses on data-driven methods for flow field analysis and experimental–numerical coupled flow studies.
